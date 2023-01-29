@@ -1,0 +1,14 @@
+box icons 
+https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css
+
+About section 
+Hi, I'm Abhishek, nice to meet you. Please take a look around
+
+I am passionate about building excellent software that improves
+the lifes of those around me. I specialize in creating software
+for clients ranging from individuals and small-businesses all
+the way to large enterprise corportation. What would you do if
+you had a software expert available at your fingertips.
+
+Scroll Reveal
+https://unpkg.com/scrollreveal
